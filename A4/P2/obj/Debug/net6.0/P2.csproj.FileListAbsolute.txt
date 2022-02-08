@@ -1,0 +1,15 @@
+E:\DotNet MSU\Assignments\A4\P2\bin\Debug\net6.0\P2.exe
+E:\DotNet MSU\Assignments\A4\P2\bin\Debug\net6.0\P2.deps.json
+E:\DotNet MSU\Assignments\A4\P2\bin\Debug\net6.0\P2.runtimeconfig.json
+E:\DotNet MSU\Assignments\A4\P2\bin\Debug\net6.0\P2.dll
+E:\DotNet MSU\Assignments\A4\P2\bin\Debug\net6.0\ref\P2.dll
+E:\DotNet MSU\Assignments\A4\P2\bin\Debug\net6.0\P2.pdb
+E:\DotNet MSU\Assignments\A4\P2\obj\Debug\net6.0\P2.csproj.AssemblyReference.cache
+E:\DotNet MSU\Assignments\A4\P2\obj\Debug\net6.0\P2.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet MSU\Assignments\A4\P2\obj\Debug\net6.0\P2.AssemblyInfoInputs.cache
+E:\DotNet MSU\Assignments\A4\P2\obj\Debug\net6.0\P2.AssemblyInfo.cs
+E:\DotNet MSU\Assignments\A4\P2\obj\Debug\net6.0\P2.csproj.CoreCompileInputs.cache
+E:\DotNet MSU\Assignments\A4\P2\obj\Debug\net6.0\P2.dll
+E:\DotNet MSU\Assignments\A4\P2\obj\Debug\net6.0\ref\P2.dll
+E:\DotNet MSU\Assignments\A4\P2\obj\Debug\net6.0\P2.pdb
+E:\DotNet MSU\Assignments\A4\P2\obj\Debug\net6.0\P2.genruntimeconfig.cache
