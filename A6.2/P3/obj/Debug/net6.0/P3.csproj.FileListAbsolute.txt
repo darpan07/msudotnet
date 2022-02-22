@@ -1,0 +1,15 @@
+E:\DotNet MSU\Assignments\A6.2\P3\bin\Debug\net6.0\P3.exe
+E:\DotNet MSU\Assignments\A6.2\P3\bin\Debug\net6.0\P3.deps.json
+E:\DotNet MSU\Assignments\A6.2\P3\bin\Debug\net6.0\P3.runtimeconfig.json
+E:\DotNet MSU\Assignments\A6.2\P3\bin\Debug\net6.0\P3.dll
+E:\DotNet MSU\Assignments\A6.2\P3\bin\Debug\net6.0\ref\P3.dll
+E:\DotNet MSU\Assignments\A6.2\P3\bin\Debug\net6.0\P3.pdb
+E:\DotNet MSU\Assignments\A6.2\P3\obj\Debug\net6.0\P3.csproj.AssemblyReference.cache
+E:\DotNet MSU\Assignments\A6.2\P3\obj\Debug\net6.0\P3.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet MSU\Assignments\A6.2\P3\obj\Debug\net6.0\P3.AssemblyInfoInputs.cache
+E:\DotNet MSU\Assignments\A6.2\P3\obj\Debug\net6.0\P3.AssemblyInfo.cs
+E:\DotNet MSU\Assignments\A6.2\P3\obj\Debug\net6.0\P3.csproj.CoreCompileInputs.cache
+E:\DotNet MSU\Assignments\A6.2\P3\obj\Debug\net6.0\P3.dll
+E:\DotNet MSU\Assignments\A6.2\P3\obj\Debug\net6.0\ref\P3.dll
+E:\DotNet MSU\Assignments\A6.2\P3\obj\Debug\net6.0\P3.pdb
+E:\DotNet MSU\Assignments\A6.2\P3\obj\Debug\net6.0\P3.genruntimeconfig.cache
